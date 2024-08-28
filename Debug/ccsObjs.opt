@@ -1,0 +1,8 @@
+"./main.obj"
+"./tm4c123gh6pm_startup_ccs.obj"
+"./HWT906/hwt906.obj"
+"./SSI/SSI.obj"
+"./utils/uartstdio.obj"
+"../tm4c123gh6pm.cmd"
+-l"E:/MCU/TM4/TivaWare_C_Series-2.2.0.295/driverlib/ccs/Debug/driverlib.lib"
+-llibc.a
